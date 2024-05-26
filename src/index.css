@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+    font-family: "Vollkorn", serif;
+}
+.nav{
+    background-color: #fbe4d8;
+    color: #190019;
+}
+.li-nav{
+    color: #190019;
+}
+.logo{
+    font-family: "Jersey 10";
+    color: #190019;
+}
